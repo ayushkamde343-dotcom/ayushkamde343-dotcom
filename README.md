@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ayush Kamde</h1>
-<h3 align="center">Ayush Kamde is a passionate Cloud & DevOps Engineer from India, working on Cloud and DevOps for 3+ years now.</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demas.workers.dev?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Cloud+%26+DevOps+Engineer;AWS+%26+Kubernetes+Specialist;Infrastructure+Automation+Engineer" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coding GIF" width="450" />
 </p>
+
+**Ayush Kamde** is a passionate Cloud & DevOps Engineer from India, working on Cloud and DevOps for **3+ years** now.[cite: 1, 4]
 
 ---
 
