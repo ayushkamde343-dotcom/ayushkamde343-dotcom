@@ -2,15 +2,27 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Cloud+%26+DevOps+Engineer;AWS+%26+Kubernetes+Specialist;Infrastructure+Automation+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Cloud+%26+DevOps+Engineer;3%2B+Years+Experience;AWS%2C+Kubernetes+%26+Terraform+Specialist" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coding GIF" width="450" />
-</p>
-
-**Ayush Kamde** is a passionate Cloud & DevOps Engineer from India, working on Cloud and DevOps for **3+ years** now.[cite: 1, 4]
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🙋‍♂️ About Me</h3>
+      <ul>
+        <li>⚡ Maintained <b>99.9% application uptime</b> on AWS production workloads.[cite: 7]</li>
+        <li>🚀 Automated CI/CD pipelines & containerized microservices deployments.[cite: 7]</li>
+        <li>🛡️ Integrated SonarQube, Trivy, and IAM security controls.[cite: 7]</li>
+        <li>💰 Optimized AWS infrastructure costs and resource allocation.[cite: 7, 8]</li>
+        <li>📊 Set up monitoring & observability using Prometheus, Grafana, and CloudWatch.[cite: 8]</li>
+      </ul>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coding GIF" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
