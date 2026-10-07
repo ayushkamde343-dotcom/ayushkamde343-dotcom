@@ -1,6 +1,5 @@
-# Hi 👋, I'm Ayush Kamde
-
-**Ayush Kamde** is a passionate Cloud & DevOps Engineer from India, working on Cloud and DevOps for **3+ years** now.
+<h1 align="center">Hi 👋, I'm Ayush Kamde</h1>
+<h3 align="center">**Ayush Kamde** is a passionate Cloud & DevOps Engineer from India, working on Cloud and DevOps for **3+ years** now.</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coding GIF" width="450" />
