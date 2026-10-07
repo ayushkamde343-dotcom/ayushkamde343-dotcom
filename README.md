@@ -12,7 +12,6 @@ microservices, containers, Kubernetes/EKS, Terraform automation and CI/CD pipeli
 <img align="right" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
 
 ## 👨‍💻 About Me
-
 - 🔧 I work on **DevOps, Microservices, Containers, and Cloud technologies**.
 - ☁️ Experienced with **AWS Cloud and infrastructure automation**.
 - ☸️ Hands-on with **Kubernetes / Amazon EKS, Docker and Helm**.
