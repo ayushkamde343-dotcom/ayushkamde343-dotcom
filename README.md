@@ -2,7 +2,7 @@
 
 **Ayush Kamde** is a passionate Cloud & DevOps Engineer from India, working on Cloud and DevOps for **3+ years** now.
 
-<p align="right">
+<p align="center">
   <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coding GIF" width="450" />
 </p>
 
