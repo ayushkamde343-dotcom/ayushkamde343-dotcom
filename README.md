@@ -7,6 +7,8 @@ Cloud & DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD
 3+ years of experience in Cloud & DevOps engineering, working with AWS infrastructure,
 microservices, containers, Kubernetes/EKS, Terraform automation and CI/CD pipelines.
 
+
+
 </div>
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
