@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Cloud+%26+DevOps+Engineer;AWS+%26+Kubernetes+Specialist;Infrastructure+Automation+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Cloud+%26+DevOps+Engineer+(3%2B+Years+Experience);AWS+%26+Kubernetes+Specialist;Infrastructure+Automation+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coding GIF" width="450" />
 </p>
 
-<h1 align="center">Ayush Kamde is a passionate Cloud & DevOps Engineer from India, working on Cloud and DevOps for 3+ years now.
+**Ayush Kamde** is a passionate Cloud & DevOps Engineer from India, working on Cloud and DevOps for **3+ years** now.[cite: 1, 4]
 
 ---
 
@@ -93,6 +93,6 @@
 ---
 
 ## 📫 Connect with me:
-- 💬 Ask me about **DevOps, AWS, Kubernetes & Automation**
-- 💼 LinkedIn: [ayush-kamde-b93b993a1](https://linkedin.com/in/ayush-kamde-b93b993a1)
-- 📧 Email: [ayushkamde343@gmail.com](mailto:ayushkamde343@gmail.com)
+- 💬 Ask me about **DevOps, AWS, Kubernetes & Automation**[cite: 1]
+- 💼 LinkedIn: [ayush-kamde-b93b993a1](https://linkedin.com/in/ayush-kamde-b93b993a1)[cite: 1]
+- 📧 Email: [ayushkamde343@gmail.com](mailto:ayushkamde343@gmail.com)[cite: 1]
