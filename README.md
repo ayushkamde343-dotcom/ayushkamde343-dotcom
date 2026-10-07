@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demas.workers.dev?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Cloud+%26+DevOps+Engineer;AWS+%26+Kubernetes+Specialist;Infrastructure+Automation+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Cloud+%26+DevOps+Engineer;AWS+%26+Kubernetes+Specialist;Infrastructure+Automation+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
