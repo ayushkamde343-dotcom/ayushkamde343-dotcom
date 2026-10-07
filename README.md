@@ -11,11 +11,11 @@
     <td width="50%" valign="top">
       <h3>🙋‍♂️ About Me</h3>
       <ul>
-        <li>⚡ Maintained <b>99.9% application uptime</b> on AWS production workloads.[cite: 7]</li>
-        <li>🚀 Automated CI/CD pipelines & containerized microservices deployments.[cite: 7]</li>
-        <li>🛡️ Integrated SonarQube, Trivy, and IAM security controls.[cite: 7]</li>
-        <li>💰 Optimized AWS infrastructure costs and resource allocation.[cite: 7, 8]</li>
-        <li>📊 Set up monitoring & observability using Prometheus, Grafana, and CloudWatch.[cite: 8]</li>
+        <li>⚡ Maintained <b>99.9% application uptime</b> on AWS production workloads.</li>
+        <li>🚀 Automated CI/CD pipelines & containerized microservices deployments.</li>
+        <li>🛡️ Integrated SonarQube, Trivy, and IAM security controls.</li>
+        <li>💰 Optimized AWS infrastructure costs and resource allocation.</li>
+        <li>📊 Set up monitoring & observability using Prometheus, Grafana, and CloudWatch.</li>
       </ul>
     </td>
     <td width="50%" align="center" valign="middle">
@@ -105,6 +105,6 @@
 ---
 
 ## 📫 Connect with me:
-- 💬 Ask me about **DevOps, AWS, Kubernetes & Automation**[cite: 1]
-- 💼 LinkedIn: [ayush-kamde-b93b993a1](https://linkedin.com/in/ayush-kamde-b93b993a1)[cite: 1]
-- 📧 Email: [ayushkamde343@gmail.com](mailto:ayushkamde343@gmail.com)[cite: 1]
+- 💬 Ask me about **DevOps, AWS, Kubernetes & Automation**
+- 💼 LinkedIn: [ayush-kamde-b93b993a1](https://linkedin.com/in/ayush-kamde-b93b993a1)
+- 📧 Email: [ayushkamde343@gmail.com](mailto:ayushkamde343@gmail.com)
