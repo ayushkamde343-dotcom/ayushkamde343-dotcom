@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coding GIF" width="450" />
 </p>
 
-**Ayush Kamde** is a passionate Cloud & DevOps Engineer from India, working on Cloud and DevOps for **3+ years** now.[cite: 1, 4]
+**Ayush Kamde** is a passionate Cloud & DevOps Engineer from India, working on Cloud and DevOps for **3+ years** now.
 
 ---
 
@@ -93,6 +93,6 @@
 ---
 
 ## 📫 Connect with me:
-- 💬 Ask me about **DevOps, AWS, Kubernetes & Automation**[cite: 1]
-- 💼 LinkedIn: [ayush-kamde-b93b993a1](https://linkedin.com/in/ayush-kamde-b93b993a1)[cite: 1]
-- 📧 Email: [ayushkamde343@gmail.com](mailto:ayushkamde343@gmail.com)[cite: 1]
+- 💬 Ask me about **DevOps, AWS, Kubernetes & Automation**
+- 💼 LinkedIn: [ayush-kamde-b93b993a1](https://linkedin.com/in/ayush-kamde-b93b993a1)
+- 📧 Email: [ayushkamde343@gmail.com](mailto:ayushkamde343@gmail.com)
